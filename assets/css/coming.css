@@ -1,0 +1,13 @@
+body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        .logo {
+            height: 100%;
+            width: 100%;
+            background-image: url('path/to/your/comings.png');
+            background-size: cover;
+            background-position: center;
+        }
